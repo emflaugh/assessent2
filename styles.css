@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+#welcome {
+  color: lightgrey;
+  text-align: center;
+  border-top: 1px, solid, lightgrey;
+}
+
+.form {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 80%;
+  height: 300px;
+  margin-top: 100px;
+}
+
+.input {
+  display: inline-block;
+  padding: 10px;
+  margin: 0, auto;
+}
+
+.button {
+  border: none;
+  background-color: black;
+  color: white;
+  width: 50%;
+  border-radius: 2px;
+}
+
+.button:hover {
+
+}
+
+
+#reset {
+  text-decoration: none;
+  color: lightgrey;
+}
+#link {
+  text-decoration: underline;
+  color: grey;
+}
